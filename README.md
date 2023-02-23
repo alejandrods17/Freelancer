@@ -3,7 +3,6 @@ Este es un porfolio creado con el objetivo de mostrar un ejemplo o borrador de p
 ## Tecnologias y Metodologias usadas
 [![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=BEM&logoColor=white&labelColor=101010)]()
 </br>
 ## Visualizacion de pagina web
 [![html](https://cdn.icon-icons.com/icons2/561/PNG/96/website-design-symbol-1_icon-icons.com_53804.png)](https://alejandrodsfd.github.io/Borrador-Freelancer/)
